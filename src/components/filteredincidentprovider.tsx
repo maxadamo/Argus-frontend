@@ -34,6 +34,8 @@ export const matchesOnTags = (incident: Incident, tagStrings: string[]): boolean
 export const matchesOnSources = (incident: Incident, sources: number[] | undefined): boolean => {
   if (sources === undefined || sources.length === 0) {
     return true;
+  } else if (sources[0] === undefined) {
+    return false;
   }
   return sources.some((source: number) => incident.source.pk === source);
 };
