@@ -1,4 +1,5 @@
 # Release Notes
+This file documents changes to Argus-frontend that are relevant for the users to know.
 
 ## Next release
 
