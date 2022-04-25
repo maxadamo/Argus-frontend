@@ -1,9 +1,7 @@
 # Release Notes
 This file documents changes to Argus-frontend that are relevant for the users to know.
 
-## Next release
+## [Unreleased]
 
-### Bugfixes
-- Fix ARGUS logo not properly showing the full name.
-
-### Steps for upgrading
+### Fixed
+- Fix ARGUS logo clipping part of the name.
