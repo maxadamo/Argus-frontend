@@ -1,6 +1,8 @@
-Next release
+# Changes
+This file documents all changes to Argus-frontend. This file is primarily meant to be read by developers.
 
-Changes:
- - Add SonarQube to github workflows.
+## [Unreleased]
+
+ ### Fixed
  - Make .svg logos render with the correct font.
- - Regenerate favicon to match the fixed rendering of .svg logos
+ - Regenerate favicon to match the fixed rendering of .svg logos.
