@@ -1,0 +1,6 @@
+Next release
+
+Changes:
+ - Add SonarQube to github workflows.
+ - Make .svg logos render with the correct font.
+ - Regenerate favicon to match the fixed rendering of .svg logos
