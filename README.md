@@ -186,3 +186,4 @@ Lint errors will be displayed on the console while the app is running.
 
 The file `ColorScheme.css` defines the colors used in the project.
 Additionally, there is one CSS file for each component.
+
